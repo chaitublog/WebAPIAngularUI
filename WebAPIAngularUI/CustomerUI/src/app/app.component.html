@@ -1,0 +1,16 @@
+<ng-container *ngIf="isLogin">
+<nav>
+  <div>
+  <a [routerLink]="['/CustList']" class="btn btn-info">Customers</a>
+
+  <a [routerLink]="['/CustDetails']" class="btn btn-info">Add Customer</a>
+
+</div>
+</nav>
+</ng-container>
+  
+  <a [routerLink]="['/Login']" *ngIf="!isLogin" >Login</a>
+    
+  <a (click)="logout()" *ngIf="isLogin" >Logout</a>
+
+  <router-outlet></router-outlet>

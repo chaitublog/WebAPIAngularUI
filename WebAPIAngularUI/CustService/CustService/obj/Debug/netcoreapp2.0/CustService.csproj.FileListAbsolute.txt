@@ -1,0 +1,12 @@
+D:\Customer\CustService\CustService\bin\Debug\netcoreapp2.0\CustService.deps.json
+D:\Customer\CustService\CustService\bin\Debug\netcoreapp2.0\CustService.runtimeconfig.json
+D:\Customer\CustService\CustService\bin\Debug\netcoreapp2.0\CustService.runtimeconfig.dev.json
+D:\Customer\CustService\CustService\bin\Debug\netcoreapp2.0\CustService.dll
+D:\Customer\CustService\CustService\obj\Debug\netcoreapp2.0\CustService.csprojAssemblyReference.cache
+D:\Customer\CustService\CustService\obj\Debug\netcoreapp2.0\CustService.csproj.CoreCompileInputs.cache
+D:\Customer\CustService\CustService\obj\Debug\netcoreapp2.0\CustService.AssemblyInfoInputs.cache
+D:\Customer\CustService\CustService\obj\Debug\netcoreapp2.0\CustService.AssemblyInfo.cs
+D:\Customer\CustService\CustService\bin\Debug\netcoreapp2.0\CustService.pdb
+D:\Customer\CustService\CustService\obj\Debug\netcoreapp2.0\CustService.dll
+D:\Customer\CustService\CustService\obj\Debug\netcoreapp2.0\CustService.pdb
+D:\Customer\CustService\CustService\bin\Debug\netcoreapp2.0\log4net.config

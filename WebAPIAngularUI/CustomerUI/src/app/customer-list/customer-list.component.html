@@ -1,0 +1,24 @@
+<p>
+  customer-list!
+</p>
+
+<table class="table">
+  <thead>
+    <th>CustId</th>
+    <th>CustName</th>
+    <th>CustContactNum</th>
+    <th>CustAddress</th>
+    <th>CustCountry</th>
+    <th>Num With US</th>
+  </thead>
+  <tr *ngFor="let curCust of custList"
+  [class.selected]="curCust === selectedCustomer"
+    (click)="onSelect(curCust)">    
+    <td>{{curCust.custId}}</td>
+    <td>{{curCust.userFullName}}</td>
+    <td>{{curCust.custContactNum}}</td>
+    <td>{{curCust.custAddress}}</td>
+    <td>{{curCust.custCountry}}</td>
+    <td>{{curCust.numMonthsCustomer}}</td>
+  </tr>
+</table>
